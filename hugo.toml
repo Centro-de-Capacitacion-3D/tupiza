@@ -268,7 +268,7 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
+    logo = "img/ibm-logo-small.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contacto"
     address = """<p class="text-uppercase"><strong>CC3D</strong>
