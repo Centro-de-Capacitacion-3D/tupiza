@@ -6,6 +6,6 @@ layout: "calendar"
 type: "posts"
 ---
 
-# Calendario Centro de Capacitación 3D
+# Calendario de CC3D - Tupiza
 
 
