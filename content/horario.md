@@ -5,7 +5,7 @@ draft: false
 image: "img/group4.jpeg"
 ---
 
-#### Inicio de clases: 1ro de Febrero
+#### Inicio de clases: 3 de Febrero
 #### Graduación: 15 de Octubre
 
 # HORARIO DE CLASES
