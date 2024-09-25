@@ -1,4 +1,4 @@
-baseurl = "https://localhost:1313/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://tupiza.cc3d.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "CC3D- tupiza"
 theme = "hugo-universal-theme"
 #themesDir = "/"
@@ -289,7 +289,7 @@ CanonifyURLs = true
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contactarnos via WhatsApp +591-64908144 or info@cc3d.org</p>
+    text = """<p class="hidden-sm hidden-xs">Contactarnos via WhatsApp +591-64908144 o info@cc3d.org</p>
       <p class="hidden-md hidden-lg"><a href="tel:+591-64908144" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:info@cc3d.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
