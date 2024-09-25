@@ -1,7 +1,9 @@
 ---
 type: "nosotros"
 Title: "Nosotros"
+date: 2024-09-25T15:11:42-04:00
 draft: false
+banner: "/img/banners/banner-6.jpg"
 ---
 
 # Declaración de Fe
