@@ -8,6 +8,15 @@
     <language>es</language>
     <lastBuildDate>Wed, 30 Aug 2023 21:08:15 -0400</lastBuildDate><atom:link href="https://tupiza.cc3d.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Calendar</title>
+      <link>https://tupiza.cc3d.org/calendar/</link>
+      <pubDate>Wed, 25 Sep 2024 15:11:42 -0400</pubDate>
+      
+      <guid>https://tupiza.cc3d.org/calendar/</guid>
+      <description>Calendario Centro de Capacitación 3D </description>
+    </item>
+    
+    <item>
       <title>Contacto</title>
       <link>https://tupiza.cc3d.org/contacto/</link>
       <pubDate>Fri, 01 Sep 2023 21:15:44 -0400</pubDate>
@@ -23,15 +32,6 @@
       
       <guid>https://tupiza.cc3d.org/horario/</guid>
       <description>Inicio de clases: 3 de Febrero Graduación: 15 de Octubre HORARIO DE CLASES 8:00AM - 12:00PM 1:00PM - 5:00PM NOTA: CC3D no celebra o da libre días feriados. Si se da cierto tiempo durante las vacaciones invernales.</description>
-    </item>
-    
-    <item>
-      <title>Calendar</title>
-      <link>https://tupiza.cc3d.org/calendar/</link>
-      <pubDate>Thu, 31 Aug 2023 15:11:42 -0400</pubDate>
-      
-      <guid>https://tupiza.cc3d.org/calendar/</guid>
-      <description>Calendario Centro de Capacitación 3D </description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ I. Descripción del curso Este es un estudio fundamental que comienza en el Gén
       
       <guid>https://tupiza.cc3d.org/admisiones/inicio/</guid>
       <description>Centro de Capacitación 3D Discipular -&amp;gt; Desarrollar -&amp;gt; Dispersar Calendario
-{{ iframe https://cloud.cc3d.org/index.php/apps/calendar/p/RgdK2oxjBjc2Gcba/dayGridMonth/now }}
+{{ iframe https://cloud.cc3d.org/index.php/apps/calendar/p/pm2HAx8ZQg2j7HBN }}
 Fotos</description>
     </item>
     
