@@ -5,6 +5,10 @@ draft: false
 ---
 
 # Internos
-- incluye costos de alimentación, estadía y estudios
+¡Este año 2025 estamos con una rebaja de costos por ser nuestro primer año!
+El costo mensual es de 700 Bolivianos o $100 Americanos. 
+- cubre costos de alimentación, estadía y materiales.
 # Externos
-- incluye costos de almuerzo y estudios
+¡Este año 2025 estamos con una rebaja de costos por ser nuestro primer año!
+El costo mensual para externos es de 350 Bolivianos o $50 Americanos. 
+- solo cubre costos de almuerzo y materiales.
